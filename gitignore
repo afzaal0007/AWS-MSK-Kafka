@@ -30,3 +30,4 @@ provider_aws.tf
 prod-jnj.tf
 dev-jnj.tf
 uat-jnj.tf
+.trunk/
